@@ -1,8 +1,12 @@
-p{
-
-text-align: ;
+nav ul li{
+    text-align:center;
+    display:inline;
 }
 
+#AboutMe p{
+
+  text-indent: 50px;
+}
 
 body{
 	background-color: lavender;
@@ -24,7 +28,7 @@ body{
   content: "";
   clear: both;
   display: table;
-}
+
 
 
 
