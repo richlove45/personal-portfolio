@@ -6,8 +6,9 @@ nav ul li{
 
 body{
   text-align:center;
-	background-color:#632399;
-  color:#ffffff;
+
+    color:blue;
+   color:#1b29c4;
   background-image: url("https://i.pinimg.com/originals/e0/0d/a7/e00da7e6895b4b778a7d1201f4465972.gif")
   
   
@@ -66,7 +67,7 @@ li a:hover {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #745299;
+  background-color:#52535b;
   color: white;
   text-align: center;
 }
