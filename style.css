@@ -20,14 +20,14 @@ body{
 * {
   box-sizing: border-box;
 }
-
+/*image placed next to each other*/
 .column {
   float: left;
   width: 33.33%;
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
+/* Clearfix (clear floats)/ image next to each other*/
 .row::after {
   content: "";
   clear: both;
@@ -75,6 +75,7 @@ li a:hover {
 }
  #gurlllll{
 
+/*color of the webiste*/
   color: yellow;
 
 
