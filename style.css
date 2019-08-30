@@ -6,19 +6,15 @@ nav ul li{
 
 body{
   text-align:center;
-
-    color:yellow;
-  background-color:purple;
-
-
-  
-  
-
-	
+  color:black;
+  background-color:#c6a3e6;
 }
-
-* {
-  box-sizing: border-box;
+/*Font of the text*/
+p{
+  font-size: 25px;
+}
+h1{
+  color: blue;
 }
 /*image placed next to each other*/
 .column {
@@ -34,7 +30,6 @@ body{
   display: table;
 
 }
-
 
 /*nav bar*/
 ul {
@@ -56,12 +51,14 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+* {
+  box-sizing: border-box;
+}
+
 
 li a:hover {
   background-color: #111;
 }
-
-
 
 .footer {
   position: fixed;
@@ -75,8 +72,8 @@ li a:hover {
 }
  #gurlllll{
 
-/*color of the webiste*/
-  color: yellow;
+/*color of the words on webiste*/
+  color: black;
 
 
   
