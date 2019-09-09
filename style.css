@@ -7,14 +7,14 @@ nav ul li{
 body{
   text-align:center;
   color:black;
-  background-color:#e9cbf7;
+  background-color:#f25b50;
 }
 /*Font of the text*/
 p{
   font-size: 25px;
 }
 h1{
-  color: blue;
+  color: white;
 }
 /*image placed next to each other*/
 .column {
