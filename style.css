@@ -11,7 +11,7 @@ body{
 }
 /*Font of the text*/
 p{
-  font-size: 25px;
+  font-size: 28px;
 }
 h1{
   color: white;
@@ -81,7 +81,9 @@ li a:hover {
 
   
  }
-
+#country {
+  float: left;
+}
  
 
 
