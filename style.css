@@ -1,7 +1,7 @@
 nav ul li{
     text-align:center;
     display:inline;
-    font-size: 22px;
+    font-size:22px;
 
 }
 
@@ -59,7 +59,7 @@ li a {
 
 
 li a:hover {
-  background-color: #111;
+  background-color:#c9463c;
 }
 
 .footer {
